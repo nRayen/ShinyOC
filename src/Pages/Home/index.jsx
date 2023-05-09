@@ -5,16 +5,7 @@ export function Home() {
 
     return (
         <>
-            <h1>Hello world</h1>
-            <nav>
-                <ul>
-                    <li>hey</li>
-                    <li></li>
-                    <li></li>
-                    <li>d</li>
-                    <li>d</li>
-                </ul>
-            </nav>
+            <h1>Accueil🏠</h1>
         </>
     )
 }
