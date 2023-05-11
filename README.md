@@ -1,6 +1,6 @@
 # Shiny OC
 
-Création d'une SPA pour la Shiny Agency lors du suivi du cours [Créer une application Réact complète](https://openclassrooms.com/fr/courses/7150606-creez-une-application-react-complete) de OpenClassRoom.
+Création d'une SPA pour la Shiny Agency lors du suivi du cours [Créer une application Réact complète](https://openclassrooms.com/fr/courses/7150606-creez-une-application-react-complete) de OpenClassroom.
 
 
 
@@ -10,6 +10,7 @@ Création d'une SPA pour la Shiny Agency lors du suivi du cours [Créer une appl
 - UseState
 - React Router
 - PropTypes
+- Styled Components
 
 
 ## Tech Stack
